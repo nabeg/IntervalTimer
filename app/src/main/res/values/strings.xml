@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">IntervalTimer</string>
+    <string name="work">WORK</string>
+    <string name="rest">REST</string>
+    <string name="start">START</string>
+    <string name="pause">PAUSE</string>
+    <string name="reset">RESET</string>
+    <string name="zeroPlaceholder">00</string>
 </resources>
